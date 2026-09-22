@@ -1,6 +1,6 @@
 
 # Decisões de tratamento — Módulo 4
-Data: 2026-09-17 20:42
+Data: 2026-09-22 18:45
 
 ## Principais decisões
 - Colunas: minúsculas, sem acentos, underline.
